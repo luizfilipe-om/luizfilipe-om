@@ -20,8 +20,6 @@
  <a href = "mailto:luizfilipe.macedo@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=E-mail&logoColor=white" target="_blank"> </a>
  <a href="https://www.linkedin.com/in/luiz-filipe-macedo-b29021107/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/luizfilipe-om
-/luizfilipe-om
-/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/luizfilipe-om/luizfilipe-om/blob/output/github-contribution-grid-snake.svg)
 
 </div>
